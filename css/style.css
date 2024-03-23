@@ -17,32 +17,20 @@ body {
 
 
 
-@media screen and (max-width: 980px) {
-
-    body{
-        background-color: #232946;
-        display: grid;
-    }
-}
-
-
-
-
-@media screen and (max-width: 768px) {
-
-    body{
-        background-color: #23462e;
-        display: grid;
-        
-        
-       
-    }
-}
-
-
-
 
 @media screen and (max-width: 468px) {
+
+    body{
+        background-color: #462326;
+        columns: auto;
+    }
+}
+
+
+
+
+
+@media screen and (max-width: 234px) {
 
     body{
         background-color: #462326;
